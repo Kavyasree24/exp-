@@ -8,7 +8,7 @@ salary  FLOAT);
 #2
 INSERT INTO EMPLOYEE (code , name , designation , dob , salary)
 VALUES
-    ('e1' ,'Jos' ,'HOD' ,'1990-09-08',100000),
+    ('e1' ,'ken' ,'HOD' ,'1990-09-08',100000),
     ('e2','Ben' ,'Manager','1991-06-04',125000) ;
 #3    
 SELECT * FROM EMPLOYEE;
